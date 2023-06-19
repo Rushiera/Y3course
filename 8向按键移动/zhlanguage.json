@@ -1,0 +1,38 @@
+{
+    "408425060": {
+        "key": 408425060, 
+        "value": "\u8fd9\u662f\u4e00\u4e2a\u751f\u7269"
+    }, 
+    "844709647": {
+        "key": 844709647, 
+        "value": "\u79fb\u52a8\u7279\u6548"
+    }, 
+    "1747309269": {
+        "key": 1747309269, 
+        "value": "\u751f\u7269\u6a21\u677f"
+    }, 
+    "$code_camp_referee": {
+        "key": "$code_camp_referee", 
+        "value": "\u88c1\u5224"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "\u9635\u8425 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "\u4e2d\u7acb"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "\u73a9\u5bb6 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "\u4e2d\u7acb \u654c\u5bf9"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "\u4e2d\u7acb \u53cb\u5584"
+    }
+}
