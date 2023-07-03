@@ -344,6 +344,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    373170177, 
+                    "created"
+                ], 
+                [
+                    1782456322, 
+                    "removed"
+                ]
+            ], 
+            "key": 201373605, 
+            "name": "201373605"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

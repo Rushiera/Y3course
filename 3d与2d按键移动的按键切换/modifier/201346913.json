@@ -258,6 +258,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    995614721, 
+                    "Gain"
+                ], 
+                [
+                    1431826434, 
+                    "period"
+                ]
+            ], 
+            "key": 201346913, 
+            "name": "201346913"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

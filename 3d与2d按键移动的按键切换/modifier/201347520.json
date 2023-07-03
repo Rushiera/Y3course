@@ -204,6 +204,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    847253505, 
+                    "Gain modifier"
+                ], 
+                [
+                    1289887746, 
+                    "Lose modifier"
+                ]
+            ], 
+            "key": 201347520, 
+            "name": "201347520"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {}, 

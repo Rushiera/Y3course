@@ -604,6 +604,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    860372994, 
+                    "Ability ends"
+                ], 
+                [
+                    1459572739, 
+                    "Ability preparation ends"
+                ]
+            ], 
+            "key": 201335474, 
+            "name": "201335474"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

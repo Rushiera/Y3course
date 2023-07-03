@@ -196,6 +196,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    622485506, 
+                    "GainBuff"
+                ], 
+                [
+                    1176113153, 
+                    "LoseBuff"
+                ]
+            ], 
+            "key": 1008, 
+            "name": "1008"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

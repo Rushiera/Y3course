@@ -122,6 +122,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    901496834, 
+                    "AbilityLost"
+                ], 
+                [
+                    1908129793, 
+                    "AbilityGained"
+                ]
+            ], 
+            "key": 201381050, 
+            "name": "201381050"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

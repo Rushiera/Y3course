@@ -1,0 +1,74 @@
+{
+    "local_variable": {
+        "96202755": {
+            "variable_dict": {
+                "POINT": {
+                    "p": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "p2": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "p": 0, 
+                "p2": 0
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "FLOAT": {
+            "tips_scale": 0.0
+        }, 
+        "INTEGER": {}, 
+        "NEW_TIMER": {}, 
+        "STRING": {
+            "ViewControl": "3D"
+        }, 
+        "TABLE": {}, 
+        "UNIT_ENTITY": {
+            "unit": 0
+        }, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "tips_scale", 
+                "tips_scale"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "unit", 
+                "unit"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ViewControl", 
+                "ViewControl"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "ViewControl": 0, 
+        "tips_scale": 10, 
+        "unit": 0
+    }
+}

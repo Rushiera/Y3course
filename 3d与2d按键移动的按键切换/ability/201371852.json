@@ -710,6 +710,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            1066057730, 
+            "NewTrigger"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1619664897, 
+                    "AbilityGained"
+                ]
+            ], 
+            "key": 201371852, 
+            "name": "201371852"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

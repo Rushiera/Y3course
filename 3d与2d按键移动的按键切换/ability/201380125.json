@@ -543,6 +543,31 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            202452995, 
+            "sub_trigger"
+        ], 
+        [
+            1124560898, 
+            "sub_trigger3"
+        ], 
+        [
+            1203277828, 
+            "sub_trigger2"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    123617281, 
+                    "Ability Gained"
+                ]
+            ], 
+            "key": 201380125, 
+            "name": "201380125"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {}, 

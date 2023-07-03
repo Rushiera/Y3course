@@ -1430,6 +1430,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1519665154, 
+                    "Action"
+                ], 
+                [
+                    1921880065, 
+                    "Start"
+                ]
+            ], 
+            "key": 134281421, 
+            "name": "134281421"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

@@ -238,6 +238,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1852362754, 
+                    "Lose Modifier"
+                ], 
+                [
+                    2053689345, 
+                    "Gain Modifier"
+                ]
+            ], 
+            "key": 201335534, 
+            "name": "201335534"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

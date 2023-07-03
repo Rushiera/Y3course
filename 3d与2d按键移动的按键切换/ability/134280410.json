@@ -483,6 +483,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    798654466, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    1251684355, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_1"
+                ]
+            ], 
+            "key": 134280410, 
+            "name": "134280410"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "UNIT_ENTITY": {

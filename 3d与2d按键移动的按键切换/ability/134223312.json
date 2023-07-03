@@ -1250,6 +1250,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    955985922, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    1173196801, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    1979998218, 
+                    "AbilityEnds"
+                ]
+            ], 
+            "key": 134223312, 
+            "name": "134223312"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {

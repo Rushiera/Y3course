@@ -365,6 +365,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1998483458, 
+            "UnitDeadEventHandler"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    188153859, 
+                    "AbilityPercastEnds"
+                ], 
+                [
+                    1545474049, 
+                    "AbilityGained"
+                ], 
+                [
+                    2067718148, 
+                    "AbilityPercastStarts"
+                ]
+            ], 
+            "key": 201341250, 
+            "name": "201341250"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

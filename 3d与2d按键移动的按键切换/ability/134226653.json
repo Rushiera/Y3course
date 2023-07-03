@@ -1117,6 +1117,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1346011138, 
+                    "Action"
+                ], 
+                [
+                    1797001217, 
+                    "Start"
+                ]
+            ], 
+            "key": 134226653, 
+            "name": "134226653"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "ANGLE": {

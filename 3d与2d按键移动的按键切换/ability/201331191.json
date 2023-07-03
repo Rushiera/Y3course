@@ -1862,6 +1862,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    336822274, 
+                    "AbilityContinuousCastingEnds"
+                ], 
+                [
+                    1611640833, 
+                    "AbilityPercastStarts"
+                ], 
+                [
+                    1923776515, 
+                    "SpellStop"
+                ]
+            ], 
+            "key": 201331191, 
+            "name": "201331191"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

@@ -164,6 +164,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    31850498, 
+                    "Lose Modifier"
+                ], 
+                [
+                    1843789825, 
+                    "Gain Modifier"
+                ]
+            ], 
+            "key": 201385860, 
+            "name": "201385860"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

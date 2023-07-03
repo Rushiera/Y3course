@@ -4820,6 +4820,35 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1373876227, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    369274884, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ], 
+                [
+                    383946754, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    836907009, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    1401729030, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_4"
+                ]
+            ], 
+            "key": 134281671, 
+            "name": "134281671"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

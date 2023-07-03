@@ -178,6 +178,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    443904002, 
+                    "LoseBuff"
+                ], 
+                [
+                    2024296449, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 201333272, 
+            "name": "201333272"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

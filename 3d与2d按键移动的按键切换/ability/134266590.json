@@ -205,6 +205,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    101367809, 
+                    "Start"
+                ], 
+                [
+                    1134436356, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ], 
+                [
+                    2051772418, 
+                    "Action"
+                ]
+            ], 
+            "key": 134266590, 
+            "name": "134266590"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

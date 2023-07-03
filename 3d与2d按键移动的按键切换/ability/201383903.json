@@ -534,6 +534,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    835846147, 
+                    "Ability Preparation Ends"
+                ], 
+                [
+                    860372994, 
+                    "Ability Ends"
+                ], 
+                [
+                    1927729155, 
+                    "Ability Precast Cast"
+                ]
+            ], 
+            "key": 201383903, 
+            "name": "201383903"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "UNIT_GROUP": {}

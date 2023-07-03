@@ -588,6 +588,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    420171779, 
+                    "Ability End"
+                ], 
+                [
+                    1624363009, 
+                    "Prepare"
+                ]
+            ], 
+            "key": 201339981, 
+            "name": "201339981"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

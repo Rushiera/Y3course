@@ -490,6 +490,35 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    588640260, 
+                    "Getting_results__3"
+                ], 
+                [
+                    588640261, 
+                    "GainBuff"
+                ], 
+                [
+                    890585090, 
+                    "To_get_the_effect"
+                ], 
+                [
+                    1511366659, 
+                    "To_get_the_effect_2"
+                ], 
+                [
+                    1897205761, 
+                    "LoseBuff"
+                ]
+            ], 
+            "key": 1007, 
+            "name": "1007"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

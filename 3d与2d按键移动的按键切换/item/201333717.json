@@ -248,6 +248,19 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1928650754, 
+                    "ItemGained"
+                ]
+            ], 
+            "key": 201333717, 
+            "name": "201333717"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

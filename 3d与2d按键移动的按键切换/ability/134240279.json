@@ -1806,6 +1806,39 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1198751747, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        [
+            1368723460, 
+            "\u5b50\u89e6\u53d1\u5668_2"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    461955078, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ], 
+                [
+                    1253724165, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    1883910145, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    1897459719, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_4"
+                ]
+            ], 
+            "key": 134240279, 
+            "name": "134240279"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

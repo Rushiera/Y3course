@@ -1,4 +1,5 @@
 {
+    "adapt_mode": 2, 
     "children": [
         {
             "adapter_option": [
@@ -13,7 +14,6 @@
             ], 
             "background_type": 0, 
             "children": [], 
-            "comp_anims": [], 
             "disabled_color": null, 
             "disabled_picture": null, 
             "event_list": [
@@ -73,7 +73,6 @@
         }, 
         {
             "children": [], 
-            "comp_anims": [], 
             "event_list": [], 
             "image": 107738, 
             "name": "win", 
@@ -99,6 +98,7 @@
     "name": "win", 
     "opacity": 1.0, 
     "type": 2, 
+    "ui_anims": [], 
     "uid": "d4c01f64-7413-4c8e-b0e5-4297d4a59c7a", 
     "visible": true, 
     "zorder": 400

@@ -108,6 +108,19 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    2024296449, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 201385517, 
+            "name": "201385517"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

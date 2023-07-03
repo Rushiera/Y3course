@@ -433,6 +433,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    902406145, 
+                    "LoseBuff"
+                ], 
+                [
+                    1305104386, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 134265338, 
+            "name": "134265338"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "MODIFIER_ENTITY": {

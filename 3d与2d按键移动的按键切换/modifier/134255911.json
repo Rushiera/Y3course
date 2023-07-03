@@ -623,6 +623,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1072836613, 
+            "\u5b50\u89e6\u53d1\u5668_4"
+        ], 
+        [
+            1140117510, 
+            "\u5b50\u89e6\u53d1\u5668_5"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    645177345, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    2142519300, 
+                    "\u7d2b\u9633\u51a0-\u5931\u53bb\u9b54\u6cd5\u6548\u679c"
+                ]
+            ], 
+            "key": 134255911, 
+            "name": "134255911"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "ABILITY": {

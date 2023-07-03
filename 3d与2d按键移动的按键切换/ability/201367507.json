@@ -543,6 +543,27 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            691769346, 
+            "hacking"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    893100035, 
+                    "Ability lost"
+                ], 
+                [
+                    1027297281, 
+                    "Ability gained"
+                ]
+            ], 
+            "key": 201367507, 
+            "name": "201367507"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

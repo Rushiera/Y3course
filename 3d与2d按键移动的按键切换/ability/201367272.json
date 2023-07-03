@@ -518,6 +518,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    534913025, 
+                    "trigger_1"
+                ], 
+                [
+                    687095810, 
+                    "trigger_2"
+                ]
+            ], 
+            "key": 201367272, 
+            "name": "201367272"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "LINK_SFX_ENTITY": {

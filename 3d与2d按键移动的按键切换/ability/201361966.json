@@ -520,6 +520,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    737390594, 
+                    "Trigger"
+                ], 
+                [
+                    1173594113, 
+                    "Trigger_3"
+                ], 
+                [
+                    2146807811, 
+                    "Trigger_4"
+                ]
+            ], 
+            "key": 201361966, 
+            "name": "201361966"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

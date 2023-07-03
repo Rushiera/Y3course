@@ -415,6 +415,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            581976071, 
+            "\u8f6e\u64ad"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1789935619, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ]
+            ], 
+            "key": 134240279, 
+            "name": "134240279"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

@@ -555,6 +555,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    538529794, 
+                    "Lose modifier"
+                ], 
+                [
+                    2029694977, 
+                    "Gain modifier"
+                ]
+            ], 
+            "key": 201342942, 
+            "name": "201342942"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

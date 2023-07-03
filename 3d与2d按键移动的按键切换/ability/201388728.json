@@ -213,6 +213,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    686837762, 
+                    "Prepare"
+                ], 
+                [
+                    703598593, 
+                    "Ability End"
+                ]
+            ], 
+            "key": 201388728, 
+            "name": "201388728"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "SFX_ENTITY": {

@@ -607,6 +607,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    510140417, 
+                    "trigger_1"
+                ], 
+                [
+                    1214922754, 
+                    "trigger_2"
+                ]
+            ], 
+            "key": 201327853, 
+            "name": "201327853"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "POINT": {}, 

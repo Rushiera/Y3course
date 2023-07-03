@@ -391,6 +391,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1344036866, 
+                    "LoseBuff"
+                ], 
+                [
+                    1575841793, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 134235512, 
+            "name": "134235512"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {

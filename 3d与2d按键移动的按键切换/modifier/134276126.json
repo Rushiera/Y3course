@@ -477,6 +477,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    847253505, 
+                    "Gain Buff"
+                ], 
+                [
+                    1289887746, 
+                    "Lose Buff"
+                ]
+            ], 
+            "key": 134276126, 
+            "name": "134276126"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {}, 

@@ -869,6 +869,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            756908035, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    878268418, 
+                    "trigger_2"
+                ], 
+                [
+                    995033089, 
+                    "trigger_1"
+                ]
+            ], 
+            "key": 201343619, 
+            "name": "201343619"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

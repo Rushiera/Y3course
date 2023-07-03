@@ -234,6 +234,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    9007106, 
+                    "Lose"
+                ], 
+                [
+                    2039029761, 
+                    "Gain"
+                ]
+            ], 
+            "key": 201338984, 
+            "name": "201338984"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {

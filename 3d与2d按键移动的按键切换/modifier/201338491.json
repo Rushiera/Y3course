@@ -156,6 +156,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1833086978, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    373469185, 
+                    "Gain"
+                ], 
+                [
+                    1698922499, 
+                    "Lose"
+                ]
+            ], 
+            "key": 201338491, 
+            "name": "201338491"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

@@ -511,6 +511,19 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    817799169, 
+                    "Spawn"
+                ]
+            ], 
+            "key": 201372616, 
+            "name": "201372616"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

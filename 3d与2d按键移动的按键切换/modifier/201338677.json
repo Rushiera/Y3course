@@ -268,6 +268,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1629245443, 
+            "BeHurtEventHandler_2"
+        ], 
+        [
+            1640701954, 
+            "BeHurtEventHandler"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    30040065, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 201338677, 
+            "name": "201338677"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

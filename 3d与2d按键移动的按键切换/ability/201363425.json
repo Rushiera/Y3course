@@ -372,6 +372,27 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            1172697091, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    525287425, 
+                    "trigger_1"
+                ], 
+                [
+                    971214850, 
+                    "Trigger"
+                ]
+            ], 
+            "key": 201363425, 
+            "name": "201363425"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

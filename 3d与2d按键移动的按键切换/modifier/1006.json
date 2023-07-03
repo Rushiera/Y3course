@@ -623,6 +623,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    943316995, 
+                    "Getting_results__2"
+                ], 
+                [
+                    1345880065, 
+                    "LoseBuff"
+                ], 
+                [
+                    1832513540, 
+                    "GainBuff"
+                ], 
+                [
+                    2117689346, 
+                    "To_get_the_effect"
+                ]
+            ], 
+            "key": 1006, 
+            "name": "1006"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "MODIFIER_ENTITY": {

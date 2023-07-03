@@ -1047,6 +1047,39 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1678905350, 
+            "The_child_trigger__2"
+        ], 
+        [
+            2081546245, 
+            "The_child_trigger"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    28938244, 
+                    "The_new_trigger__4"
+                ], 
+                [
+                    391049217, 
+                    "The_new_trigger"
+                ], 
+                [
+                    666447875, 
+                    "The_new_trigger_3"
+                ], 
+                [
+                    810479618, 
+                    "The_new_trigger_2"
+                ]
+            ], 
+            "key": 201339762, 
+            "name": "201339762"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "PROJECTILE_ENTITY": {

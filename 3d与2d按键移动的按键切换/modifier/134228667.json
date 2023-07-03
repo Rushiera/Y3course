@@ -216,6 +216,19 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1832513540, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 134228667, 
+            "name": "134228667"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "MODIFIER_ENTITY": {

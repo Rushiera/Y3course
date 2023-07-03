@@ -1280,6 +1280,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    54984706, 
+                    "AbilityPerparetionEnds"
+                ], 
+                [
+                    1665597441, 
+                    "AbilityPercastStarts"
+                ]
+            ], 
+            "key": 201346590, 
+            "name": "201346590"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

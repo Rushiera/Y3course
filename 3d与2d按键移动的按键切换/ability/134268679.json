@@ -1991,6 +1991,35 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1124290564, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    291614725, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_4"
+                ], 
+                [
+                    441491458, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    1280323585, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    1818107907, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ]
+            ], 
+            "key": 134268679, 
+            "name": "134268679"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {

@@ -514,6 +514,35 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1579397123, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    50581505, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    504619010, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    1584324613, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_4"
+                ], 
+                [
+                    1599782916, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ]
+            ], 
+            "key": 134271648, 
+            "name": "134271648"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

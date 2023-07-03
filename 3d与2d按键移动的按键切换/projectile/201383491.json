@@ -68,6 +68,19 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1045184513, 
+                    "Destroy"
+                ]
+            ], 
+            "key": 201383491, 
+            "name": "201383491"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

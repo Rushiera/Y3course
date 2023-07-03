@@ -314,6 +314,27 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            517455880, 
+            "The_child_trigger"
+        ], 
+        [
+            1926742022, 
+            "The_child_trigger_2"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    534233093, 
+                    "The_new_trigger"
+                ]
+            ], 
+            "key": 201376503, 
+            "name": "201376503"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

@@ -671,6 +671,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1763545090, 
+            "sub_trigger"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1142792195, 
+                    "Ability Lost"
+                ], 
+                [
+                    1914499073, 
+                    "Ability Gained"
+                ]
+            ], 
+            "key": 201385035, 
+            "name": "201385035"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {}, 

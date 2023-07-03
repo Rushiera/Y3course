@@ -1324,6 +1324,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    123617281, 
+                    "The_new_trigger"
+                ], 
+                [
+                    1549705218, 
+                    "The_new_trigger_2"
+                ]
+            ], 
+            "key": 201370444, 
+            "name": "201370444"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {

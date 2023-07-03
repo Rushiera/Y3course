@@ -272,6 +272,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            396374018, 
+            "sub_trigger"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    949952513, 
+                    "Ability Gained"
+                ], 
+                [
+                    1086636035, 
+                    "Ability Lost"
+                ]
+            ], 
+            "key": 201376871, 
+            "name": "201376871"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

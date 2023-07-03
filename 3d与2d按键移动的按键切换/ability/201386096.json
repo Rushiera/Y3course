@@ -1179,6 +1179,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1055883265, 
+                    "trigger_1"
+                ], 
+                [
+                    1408790530, 
+                    "trigger_2"
+                ]
+            ], 
+            "key": 201386096, 
+            "name": "201386096"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "INTEGER": {

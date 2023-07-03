@@ -626,6 +626,19 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    469766145, 
+                    "Abilityprecastends"
+                ]
+            ], 
+            "key": 201346313, 
+            "name": "201346313"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

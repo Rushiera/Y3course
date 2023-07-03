@@ -384,6 +384,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1431121921, 
+                    "trigger_1"
+                ], 
+                [
+                    1447374850, 
+                    "Trigger"
+                ]
+            ], 
+            "key": 201376422, 
+            "name": "201376422"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

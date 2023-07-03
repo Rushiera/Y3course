@@ -106,6 +106,19 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    52076546, 
+                    "PeriodEnds"
+                ]
+            ], 
+            "key": 201388433, 
+            "name": "201388433"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

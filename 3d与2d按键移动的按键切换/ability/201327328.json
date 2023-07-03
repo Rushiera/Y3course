@@ -407,6 +407,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    81195009, 
+                    "Prepare"
+                ], 
+                [
+                    852951042, 
+                    "Trigger"
+                ]
+            ], 
+            "key": 201327328, 
+            "name": "201327328"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

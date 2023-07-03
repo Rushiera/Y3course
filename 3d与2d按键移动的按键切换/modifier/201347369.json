@@ -59,6 +59,19 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    2116804609, 
+                    "gain"
+                ]
+            ], 
+            "key": 201347369, 
+            "name": "201347369"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

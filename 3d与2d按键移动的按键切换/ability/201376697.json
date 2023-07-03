@@ -948,6 +948,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    500490241, 
+                    "trigger_1"
+                ], 
+                [
+                    1239531522, 
+                    "trigger_2"
+                ]
+            ], 
+            "key": 201376697, 
+            "name": "201376697"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

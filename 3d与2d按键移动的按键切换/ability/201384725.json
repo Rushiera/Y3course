@@ -923,6 +923,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    25759745, 
+                    "Trigger_3"
+                ], 
+                [
+                    1956130818, 
+                    "Trigger"
+                ]
+            ], 
+            "key": 201384725, 
+            "name": "201384725"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

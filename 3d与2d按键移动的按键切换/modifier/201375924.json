@@ -110,6 +110,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    222642179, 
+                    "Lose"
+                ], 
+                [
+                    1262825473, 
+                    "Gain"
+                ]
+            ], 
+            "key": 201375924, 
+            "name": "201375924"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

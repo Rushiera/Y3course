@@ -277,6 +277,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            1640112130, 
+            "BuffLostEventHandler"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    96468993, 
+                    "AbilityGained"
+                ]
+            ], 
+            "key": 201374411, 
+            "name": "201374411"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

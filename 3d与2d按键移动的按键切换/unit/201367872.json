@@ -96,6 +96,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    564625409, 
+                    "UnitCreated"
+                ], 
+                [
+                    2041700354, 
+                    "UnitRevived"
+                ]
+            ], 
+            "key": 201367872, 
+            "name": "201367872"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

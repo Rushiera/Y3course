@@ -114,6 +114,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1673379842, 
+                    "AbilityLost"
+                ], 
+                [
+                    1757265921, 
+                    "AbilityGained"
+                ]
+            ], 
+            "key": 201360996, 
+            "name": "201360996"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "MODIFIER_ENTITY": {

@@ -80,6 +80,19 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1647607809, 
+                    "AbilityPercastEnds"
+                ]
+            ], 
+            "key": 201355085, 
+            "name": "201355085"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

@@ -2355,6 +2355,35 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            47112196, 
+            "\u5b50\u89e6\u53d1\u5668_2"
+        ], 
+        [
+            99119110, 
+            "\u5b50\u89e6\u53d1\u5668_3"
+        ], 
+        [
+            2119143427, 
+            "\u5b50\u89e6\u53d1\u5668"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    994226178, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    1292222465, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134276592, 
+            "name": "134276592"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

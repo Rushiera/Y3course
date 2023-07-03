@@ -348,6 +348,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    315154434, 
+                    "UnitDead"
+                ], 
+                [
+                    1959198721, 
+                    "UnitCreated_2"
+                ]
+            ], 
+            "key": 201359244, 
+            "name": "201359244"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

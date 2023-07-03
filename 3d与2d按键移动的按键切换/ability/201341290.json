@@ -689,6 +689,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    925941762, 
+                    "Prepare"
+                ], 
+                [
+                    1644036097, 
+                    "Attack"
+                ], 
+                [
+                    1865752579, 
+                    "Ability End"
+                ], 
+                [
+                    1986715652, 
+                    "trigger"
+                ]
+            ], 
+            "key": 201341290, 
+            "name": "201341290"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "INTEGER": {

@@ -356,6 +356,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    35344387, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_4"
+                ], 
+                [
+                    965517313, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134266643, 
+            "name": "134266643"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

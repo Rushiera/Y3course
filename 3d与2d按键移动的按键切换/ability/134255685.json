@@ -1286,6 +1286,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    239374337, 
+                    "AbilityPercastStarts"
+                ], 
+                [
+                    1195700226, 
+                    "AbilityPercastEnds"
+                ]
+            ], 
+            "key": 134255685, 
+            "name": "134255685"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {

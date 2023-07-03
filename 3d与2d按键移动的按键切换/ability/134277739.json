@@ -515,6 +515,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    142471169, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    1417539586, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ]
+            ], 
+            "key": 134277739, 
+            "name": "134277739"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "INTEGER": {

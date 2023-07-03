@@ -328,6 +328,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            548130818, 
+            "CastAbilityHandler"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    2024296449, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 201342944, 
+            "name": "201342944"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

@@ -318,6 +318,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    557318145, 
+                    "get"
+                ], 
+                [
+                    708321282, 
+                    "lost"
+                ]
+            ], 
+            "key": 201376833, 
+            "name": "201376833"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

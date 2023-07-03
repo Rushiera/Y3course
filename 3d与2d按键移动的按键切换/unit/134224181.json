@@ -735,6 +735,35 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            162807815, 
+            "\u8f6e\u64ad"
+        ], 
+        [
+            235495432, 
+            "\u5b50\u89e6\u53d1\u5668_6"
+        ], 
+        [
+            1544257545, 
+            "\u5b50\u89e6\u53d1\u5668_7"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    854454273, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    1857306627, 
+                    "\u97f3\u9891\u63a7\u5236"
+                ]
+            ], 
+            "key": 134224181, 
+            "name": "134224181"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

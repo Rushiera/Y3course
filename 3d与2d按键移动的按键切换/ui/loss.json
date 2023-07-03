@@ -1,4 +1,5 @@
 {
+    "adapt_mode": 2, 
     "children": [
         {
             "adapter_option": [
@@ -13,7 +14,6 @@
             ], 
             "background_type": 0, 
             "children": [], 
-            "comp_anims": [], 
             "disabled_color": null, 
             "disabled_picture": null, 
             "event_list": [
@@ -73,7 +73,6 @@
         }, 
         {
             "children": [], 
-            "comp_anims": [], 
             "event_list": [], 
             "image": 107714, 
             "name": "lose", 
@@ -99,6 +98,7 @@
     "name": "loss", 
     "opacity": 1.0, 
     "type": 2, 
+    "ui_anims": [], 
     "uid": "f5e50920-7b3d-4076-b6a8-599b70783552", 
     "visible": true, 
     "zorder": 400

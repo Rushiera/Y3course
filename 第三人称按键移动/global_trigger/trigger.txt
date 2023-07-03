@@ -1,0 +1,22 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {}, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "0": {
+            "__tuple__": true, 
+            "items": [
+                1956151347, 
+                "\u6309\u952e\u79fb\u52a8"
+            ]
+        }, 
+        "1": {
+            "__tuple__": true, 
+            "items": [
+                96202755, 
+                "\u5b50\u89e6\u53d1\u5668"
+            ]
+        }
+    }
+}

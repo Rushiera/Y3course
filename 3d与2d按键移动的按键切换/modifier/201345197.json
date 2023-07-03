@@ -186,6 +186,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    573628417, 
+                    "The_new_trigger"
+                ], 
+                [
+                    1648107522, 
+                    "The_new_trigger_2"
+                ]
+            ], 
+            "key": 201345197, 
+            "name": "201345197"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

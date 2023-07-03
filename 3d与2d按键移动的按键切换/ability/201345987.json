@@ -1307,6 +1307,19 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    199315458, 
+                    "trigger_2"
+                ]
+            ], 
+            "key": 201345987, 
+            "name": "201345987"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {

@@ -819,6 +819,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    925941762, 
+                    "Ability precast starts"
+                ], 
+                [
+                    1644036097, 
+                    "Skills_prior_to_roll_over"
+                ], 
+                [
+                    1865752579, 
+                    "Skills_to_end_(either_way)"
+                ]
+            ], 
+            "key": 201346092, 
+            "name": "201346092"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

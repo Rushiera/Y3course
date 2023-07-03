@@ -1193,6 +1193,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1040850946, 
+            "sub-trigger"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    252243970, 
+                    "Ability Gained"
+                ], 
+                [
+                    1814503427, 
+                    "Speed up"
+                ]
+            ], 
+            "key": 201376719, 
+            "name": "201376719"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

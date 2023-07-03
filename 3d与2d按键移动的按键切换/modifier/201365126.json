@@ -288,6 +288,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    136794113, 
+                    "To_get_the_effect"
+                ], 
+                [
+                    1009217538, 
+                    "To_lose_effect"
+                ]
+            ], 
+            "key": 201365126, 
+            "name": "201365126"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

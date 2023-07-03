@@ -483,6 +483,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    455663619, 
+                    "Trigger"
+                ], 
+                [
+                    1665671169, 
+                    "Trigger_3"
+                ], 
+                [
+                    2018013186, 
+                    "Prepare"
+                ]
+            ], 
+            "key": 201355502, 
+            "name": "201355502"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "POINT": {

@@ -475,6 +475,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    224161797, 
+                    "AbilityPrecastStarts"
+                ], 
+                [
+                    1264992259, 
+                    "AbilityPrecastEnds"
+                ]
+            ], 
+            "key": 201387019, 
+            "name": "201387019"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {

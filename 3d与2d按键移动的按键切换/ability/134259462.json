@@ -341,6 +341,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    661020674, 
+                    "Action"
+                ], 
+                [
+                    1684385793, 
+                    "Start"
+                ]
+            ], 
+            "key": 134259462, 
+            "name": "134259462"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {

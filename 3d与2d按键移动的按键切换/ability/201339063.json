@@ -397,6 +397,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1280131074, 
+                    "AbilityGained"
+                ], 
+                [
+                    1435660289, 
+                    "AbilityPercastEnds"
+                ]
+            ], 
+            "key": 201339063, 
+            "name": "201339063"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

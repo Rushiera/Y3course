@@ -4327,6 +4327,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    783785986, 
+                    "SpellStop"
+                ], 
+                [
+                    1734660097, 
+                    "AbilityPercastStarts"
+                ]
+            ], 
+            "key": 201329491, 
+            "name": "201329491"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

@@ -99,6 +99,14 @@
     "extra_dmg": 0.0, 
     "extra_dmg_grow": 0.0, 
     "force_show_on_mini_map": false, 
+    "fresnel_color": [
+        255, 
+        0, 
+        0, 
+        1
+    ], 
+    "fresnel_emissive_color_strength": 0, 
+    "fresnel_exp": 1, 
     "gainvalue": 0.0, 
     "gainvalue_grow": 0.0, 
     "gold coin": 100, 
@@ -253,6 +261,7 @@
     "type": 4, 
     "uid": "134238420", 
     "use_base_tint_color": false, 
+    "use_fresnel": false, 
     "use_simple_mini_map_icon": false, 
     "vampire_mag": 0.0, 
     "vampire_mag_grow": 0.0, 

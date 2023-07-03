@@ -255,6 +255,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    123617281, 
+                    "Ability precast starts"
+                ], 
+                [
+                    1549705218, 
+                    "Ability precast ends"
+                ]
+            ], 
+            "key": 201391697, 
+            "name": "201391697"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {}, 

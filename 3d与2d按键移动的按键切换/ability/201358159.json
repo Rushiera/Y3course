@@ -438,6 +438,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    412385281, 
+                    "Trigger"
+                ], 
+                [
+                    1620369411, 
+                    "Trigger_3"
+                ]
+            ], 
+            "key": 201358159, 
+            "name": "201358159"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "SFX_ENTITY": {

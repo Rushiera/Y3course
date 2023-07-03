@@ -1352,6 +1352,27 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            807636994, 
+            "NormalAttackEventHandler"
+        ], 
+        [
+            904355844, 
+            "AttackSpeedChangedEventHandler"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1891471361, 
+                    "AbilityGained"
+                ]
+            ], 
+            "key": 201328151, 
+            "name": "201328151"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {

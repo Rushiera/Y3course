@@ -427,6 +427,27 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    178511875, 
+                    "The_new_trigger"
+                ], 
+                [
+                    1282437121, 
+                    "AbilityPrecastStarts"
+                ], 
+                [
+                    1953525762, 
+                    "AbilityPrecastEnds"
+                ]
+            ], 
+            "key": 201356460, 
+            "name": "201356460"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "PROJECTILE_ENTITY": {

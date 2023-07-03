@@ -77,6 +77,19 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    259375105, 
+                    "Trigger"
+                ]
+            ], 
+            "key": 201374122, 
+            "name": "201374122"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

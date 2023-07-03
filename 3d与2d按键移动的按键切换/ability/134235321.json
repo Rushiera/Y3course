@@ -1923,6 +1923,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1300660230, 
+            "\u5b50\u89e6\u53d1\u5668_2"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    763510789, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_4"
+                ], 
+                [
+                    961351684, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ], 
+                [
+                    1424609281, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134235321, 
+            "name": "134235321"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "ANGLE": {

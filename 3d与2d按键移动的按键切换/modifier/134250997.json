@@ -158,6 +158,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1157591042, 
+                    "LoseBuff"
+                ], 
+                [
+                    1945788418, 
+                    "GainBuff"
+                ]
+            ], 
+            "key": 134250997, 
+            "name": "134250997"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {

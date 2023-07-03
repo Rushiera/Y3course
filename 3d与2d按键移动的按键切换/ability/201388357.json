@@ -1398,6 +1398,43 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            317603843, 
+            "Shield accumulation"
+        ], 
+        [
+            421777413, 
+            "damage"
+        ], 
+        [
+            471142404, 
+            "Into the grass"
+        ], 
+        [
+            628412423, 
+            "Get off the grass"
+        ], 
+        [
+            1844203528, 
+            "Small_butterfly"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    267214850, 
+                    "lost"
+                ], 
+                [
+                    1944932353, 
+                    "gain"
+                ]
+            ], 
+            "key": 201388357, 
+            "name": "201388357"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

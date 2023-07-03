@@ -1498,6 +1498,27 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    607383555, 
+                    "The_new_trigger__3"
+                ], 
+                [
+                    855269377, 
+                    "The_new_trigger"
+                ], 
+                [
+                    1476026370, 
+                    "The_new_trigger_2"
+                ]
+            ], 
+            "key": 201350077, 
+            "name": "201350077"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "MODIFIER_ENTITY": {

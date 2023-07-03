@@ -124,6 +124,23 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        [
+            463007748, 
+            "SpecifiedAbilityOwnerUnitKillsOtherUnit"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1300942849, 
+                    "AbilityGained"
+                ]
+            ], 
+            "key": 201347966, 
+            "name": "201347966"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {

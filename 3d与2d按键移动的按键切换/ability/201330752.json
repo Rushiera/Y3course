@@ -1262,6 +1262,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1973968899, 
+            "UnitReceivesCommandEventHandler"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    800751620, 
+                    "AbilityEnds"
+                ], 
+                [
+                    1435660289, 
+                    "AbilityPercastEnds"
+                ], 
+                [
+                    2033991684, 
+                    "AbilityPercastStarts"
+                ]
+            ], 
+            "key": 201330752, 
+            "name": "201330752"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {

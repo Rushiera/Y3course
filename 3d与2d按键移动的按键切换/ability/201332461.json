@@ -1013,6 +1013,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    374874113, 
+                    "trigger_1"
+                ], 
+                [
+                    1969016834, 
+                    "trigger_2"
+                ]
+            ], 
+            "key": 201332461, 
+            "name": "201332461"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "POINT": {

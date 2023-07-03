@@ -299,6 +299,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    679227395, 
+                    "AbilityEnds"
+                ], 
+                [
+                    813318145, 
+                    "AbilityPercastStarts"
+                ], 
+                [
+                    1568333826, 
+                    "AbilityPercastEnds"
+                ]
+            ], 
+            "key": 201347498, 
+            "name": "201347498"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

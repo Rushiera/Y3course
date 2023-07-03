@@ -48,6 +48,19 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    644902917, 
+                    "Ability Preparation Ends"
+                ]
+            ], 
+            "key": 201340486, 
+            "name": "201340486"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "UNIT_GROUP": {}

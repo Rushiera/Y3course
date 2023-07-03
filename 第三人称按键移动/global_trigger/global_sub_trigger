@@ -1,0 +1,908 @@
+{
+    "96202755": {
+        "action": [
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100030, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "POINT", 
+                                    "p", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    [
+                                        "UNIT_ENTITY", 
+                                        "unit"
+                                    ]
+                                ], 
+                                "sub_type": 11
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 96202755000002, 
+                "enable": true
+            }, 
+            {
+                "action_type": "CHANGE_UNIT_FACE_ANGLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "UNIT_ENTITY", 
+                                    "unit"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 11
+                    }, 
+                    {
+                        "arg_type": 100225, 
+                        "args_list": [
+                            {
+                                "arg_type": 100004, 
+                                "args_list": [
+                                    {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "POINT", 
+                                            "p", 
+                                            "local"
+                                        ]
+                                    }
+                                ], 
+                                "sub_type": 19
+                            }, 
+                            {
+                                "arg_type": 100004, 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100025, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100006, 
+                                                "args_list": [
+                                                    {
+                                                        "__tuple__": true, 
+                                                        "items": [
+                                                            "UNIT_ENTITY", 
+                                                            "unit"
+                                                        ]
+                                                    }
+                                                ], 
+                                                "sub_type": 11
+                                            }
+                                        ], 
+                                        "sub_type": "OWNER_PLAYER"
+                                    }
+                                ], 
+                                "sub_type": "GET_CAMERA_CENTER_RAYCAST"
+                            }
+                        ], 
+                        "sub_type": "GET_POINTS_ANGLE"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 96202755000039, 
+                "enable": true, 
+                "op_arg": [
+                    null
+                ], 
+                "op_arg_enable": [
+                    false
+                ]
+            }, 
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100025, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 200220, 
+                                        "args_list": [
+                                            17
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "condition_type": "PLAYER_KEY_IS_PRESSED", 
+                                "element_id": 96202755000003, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100030, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "POINT", 
+                                                    "p2", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100004, 
+                                                "args_list": [
+                                                    {
+                                                        "__tuple__": true, 
+                                                        "items": [
+                                                            "POINT", 
+                                                            "p", 
+                                                            "local"
+                                                        ]
+                                                    }
+                                                ], 
+                                                "sub_type": 19
+                                            }, 
+                                            {
+                                                "arg_type": 100225, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100004, 
+                                                        "args_list": [
+                                                            [
+                                                                "POINT", 
+                                                                "p", 
+                                                                "local"
+                                                            ]
+                                                        ], 
+                                                        "sub_type": 19
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100004, 
+                                                        "args_list": [
+                                                            {
+                                                                "arg_type": 100025, 
+                                                                "args_list": [
+                                                                    {
+                                                                        "arg_type": 100006, 
+                                                                        "args_list": [
+                                                                            [
+                                                                                "UNIT_ENTITY", 
+                                                                                "unit"
+                                                                            ]
+                                                                        ], 
+                                                                        "sub_type": 11
+                                                                    }
+                                                                ], 
+                                                                "sub_type": "OWNER_PLAYER"
+                                                            }
+                                                        ], 
+                                                        "sub_type": "GET_CAMERA_CENTER_RAYCAST"
+                                                    }
+                                                ], 
+                                                "sub_type": "GET_POINTS_ANGLE"
+                                            }, 
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    20
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "sub_type": "POINT_OFFSET_VECTOR_POINT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 96202755000004, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 96202755000005, 
+                "enable": true, 
+                "fake_op": [
+                    2
+                ]
+            }, 
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100025, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 200220, 
+                                        "args_list": [
+                                            30
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "condition_type": "PLAYER_KEY_IS_PRESSED", 
+                                "element_id": 96202755000006, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100030, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "POINT", 
+                                                    "p2", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100004, 
+                                                "args_list": [
+                                                    {
+                                                        "__tuple__": true, 
+                                                        "items": [
+                                                            "POINT", 
+                                                            "p", 
+                                                            "local"
+                                                        ]
+                                                    }
+                                                ], 
+                                                "sub_type": 19
+                                            }, 
+                                            {
+                                                "arg_type": 100225, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100225, 
+                                                        "args_list": [
+                                                            {
+                                                                "arg_type": 100006, 
+                                                                "args_list": [
+                                                                    {
+                                                                        "__tuple__": true, 
+                                                                        "items": [
+                                                                            "UNIT_ENTITY", 
+                                                                            "unit"
+                                                                        ]
+                                                                    }
+                                                                ], 
+                                                                "sub_type": 11
+                                                            }
+                                                        ], 
+                                                        "sub_type": "UNIT_FACE_ANGLE"
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100017, 
+                                                        "args_list": [
+                                                            "-"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100225, 
+                                                        "args_list": [
+                                                            270.0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "sub_type": "ANGLE_OPERATION"
+                                            }, 
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    20
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "sub_type": "POINT_OFFSET_VECTOR_POINT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 96202755000007, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 96202755000008, 
+                "enable": true, 
+                "fake_op": [
+                    2
+                ]
+            }, 
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100025, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 200220, 
+                                        "args_list": [
+                                            31
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "condition_type": "PLAYER_KEY_IS_PRESSED", 
+                                "element_id": 96202755000009, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100030, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "POINT", 
+                                                    "p2", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100004, 
+                                                "args_list": [
+                                                    {
+                                                        "__tuple__": true, 
+                                                        "items": [
+                                                            "POINT", 
+                                                            "p", 
+                                                            "local"
+                                                        ]
+                                                    }
+                                                ], 
+                                                "sub_type": 19
+                                            }, 
+                                            {
+                                                "arg_type": 100225, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100225, 
+                                                        "args_list": [
+                                                            {
+                                                                "arg_type": 100006, 
+                                                                "args_list": [
+                                                                    [
+                                                                        "UNIT_ENTITY", 
+                                                                        "unit"
+                                                                    ]
+                                                                ], 
+                                                                "sub_type": 11
+                                                            }
+                                                        ], 
+                                                        "sub_type": "UNIT_FACE_ANGLE"
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100017, 
+                                                        "args_list": [
+                                                            "-"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100225, 
+                                                        "args_list": [
+                                                            180.0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "sub_type": "ANGLE_OPERATION"
+                                            }, 
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    20
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "sub_type": "POINT_OFFSET_VECTOR_POINT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 96202755000010, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 96202755000011, 
+                "enable": true, 
+                "fake_op": [
+                    2
+                ]
+            }, 
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100025, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 200220, 
+                                        "args_list": [
+                                            32
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "condition_type": "PLAYER_KEY_IS_PRESSED", 
+                                "element_id": 96202755000012, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100030, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "POINT", 
+                                                    "p2", 
+                                                    "local"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100004, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100004, 
+                                                "args_list": [
+                                                    {
+                                                        "__tuple__": true, 
+                                                        "items": [
+                                                            "POINT", 
+                                                            "p", 
+                                                            "local"
+                                                        ]
+                                                    }
+                                                ], 
+                                                "sub_type": 19
+                                            }, 
+                                            {
+                                                "arg_type": 100225, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100225, 
+                                                        "args_list": [
+                                                            {
+                                                                "arg_type": 100006, 
+                                                                "args_list": [
+                                                                    [
+                                                                        "UNIT_ENTITY", 
+                                                                        "unit"
+                                                                    ]
+                                                                ], 
+                                                                "sub_type": 11
+                                                            }
+                                                        ], 
+                                                        "sub_type": "UNIT_FACE_ANGLE"
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100017, 
+                                                        "args_list": [
+                                                            "-"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100225, 
+                                                        "args_list": [
+                                                            90.0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "sub_type": "ANGLE_OPERATION"
+                                            }, 
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    20
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "sub_type": "POINT_OFFSET_VECTOR_POINT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 96202755000013, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 96202755000014, 
+                "enable": true, 
+                "fake_op": [
+                    2
+                ]
+            }, 
+            {
+                "action_type": "FORCE_TRANSMIT_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            [
+                                "UNIT_ENTITY", 
+                                "unit"
+                            ]
+                        ], 
+                        "sub_type": 11
+                    }, 
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "POINT", 
+                                    "p2", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 19
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 96202755000035, 
+                "enable": true, 
+                "op_arg": [
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "op_arg_enable": [
+                    false
+                ]
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [], 
+        "enabled": false, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            0.03
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 96202755000001, 
+                "enable": true, 
+                "event_type": "GAME_ELAPSE_REPEAT"
+            }
+        ], 
+        "group_id": 0, 
+        "is_conf": true, 
+        "p_trigger_id": 1956151347, 
+        "trigger_id": 96202755, 
+        "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
+        "valid": true
+    }, 
+    "1956151347": {
+        "action": [
+            {
+                "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                "args_list": [
+                    {
+                        "arg_type": 100175, 
+                        "args_list": [
+                            3
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u6b22\u8fce\u4f7f\u7528\u82f1\u96c4\u4e09\u56fd\u7f16\u8f91\u5668"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000008, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100030, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "UNIT_ENTITY", 
+                                    "unit"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000021, 
+                "enable": true
+            }, 
+            {
+                "action_type": "ADD_MODIFIER", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100046, 
+                        "args_list": [
+                            134246638
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000024, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "NEW_CAMERA_SET_TPS_FOLLOW_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            [
+                                "UNIT_ENTITY", 
+                                "unit"
+                            ]
+                        ], 
+                        "sub_type": 11
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000061, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null, 
+                    null, 
+                    null, 
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false, 
+                    false, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "STORAGE_BOX", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            96202755
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "3d\u7248\u672c"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1956151347000052, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [], 
+                "element_id": 1956151347000003, 
+                "enable": true, 
+                "event_type": "INIT_FINISHED"
+            }
+        ], 
+        "group_id": "kZQn3s4eEe2y+TDQQuUV9l", 
+        "p_trigger_id": null, 
+        "trigger_id": 1956151347, 
+        "trigger_name": "\u6309\u952e\u79fb\u52a8", 
+        "valid": true
+    }
+}

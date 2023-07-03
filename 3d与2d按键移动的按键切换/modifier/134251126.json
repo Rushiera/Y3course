@@ -2393,6 +2393,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            736358403, 
+            "\u5b50\u89e6\u53d1\u5668_2"
+        ], 
+        [
+            1961095172, 
+            "\u5b50\u89e6\u53d1\u5668_3"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    371593218, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ], 
+                [
+                    388358145, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ]
+            ], 
+            "key": 134251126, 
+            "name": "134251126"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "POINT": {

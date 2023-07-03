@@ -4336,6 +4336,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            679391236, 
+            "sub_trigger"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    860372994, 
+                    "Ability Ends"
+                ], 
+                [
+                    1459572739, 
+                    "Ability Preparation Ends"
+                ], 
+                [
+                    1927729155, 
+                    "Ability Precast Starts"
+                ]
+            ], 
+            "key": 201367818, 
+            "name": "201367818"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "UNIT_GROUP": {

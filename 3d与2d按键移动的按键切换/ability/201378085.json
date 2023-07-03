@@ -280,6 +280,27 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1264054275, 
+            "HitsOtherUnitEventHandler"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    794238977, 
+                    "AbilityGained"
+                ], 
+                [
+                    1851203586, 
+                    "AbilityLost"
+                ]
+            ], 
+            "key": 201378085, 
+            "name": "201378085"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

@@ -954,6 +954,31 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        [
+            1003466754, 
+            "Update"
+        ], 
+        [
+            1786220547, 
+            "2.5s_update"
+        ], 
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    725315588, 
+                    "AbilityPercastStarts"
+                ], 
+                [
+                    1435660289, 
+                    "AbilityPercastEnds"
+                ]
+            ], 
+            "key": 201338206, 
+            "name": "201338206"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "LINK_SFX_ENTITY": {

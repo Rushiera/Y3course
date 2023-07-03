@@ -204,6 +204,19 @@
             "valid": false
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    1281990657, 
+                    "The_new_trigger"
+                ]
+            ], 
+            "key": 201351021, 
+            "name": "201351021"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 

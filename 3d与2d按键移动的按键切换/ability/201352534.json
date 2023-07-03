@@ -120,6 +120,23 @@
             "valid": true
         }
     }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    458727425, 
+                    "trigger"
+                ], 
+                [
+                    1784152066, 
+                    "trigger_3"
+                ]
+            ], 
+            "key": 201352534, 
+            "name": "201352534"
+        }
+    ], 
     "trigger_version": "1.2", 
     "variable_dict": {
         "MODIFIER_ENTITY": {
